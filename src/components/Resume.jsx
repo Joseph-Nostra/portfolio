@@ -170,18 +170,7 @@ const Resume = () => {
                     <ExternalLink size={10} /> https://mon-site-two-nu.vercel.app/
                   </a>
                 </div>
-                <div className="group">
-                  <h3 className="text-lg font-bold mb-1 flex items-center gap-3 group-hover:text-gray-600 transition-colors">
-                    Site E-commerce (React)
-                  </h3>
-                  <p className="text-gray-600 mb-2 font-sans text-[11px]">Technologies : React, JavaScript, CSS</p>
-                  <p className="text-gray-700 leading-relaxed text-[13px] mb-3">
-                    Interface e-commerce moderne et réactive.
-                  </p>
-                  <a href="https://react-sooty-eta.vercel.app/" className="text-[10px] font-black text-gray-400 hover:text-gray-900 flex items-center gap-2 transition-colors">
-                    <ExternalLink size={10} /> https://react-sooty-eta.vercel.app/
-                  </a>
-                </div>
+
                 <div className="group">
                   <h3 className="text-lg font-bold mb-1 flex items-center gap-3 group-hover:text-gray-600 transition-colors">
                     Portfolio Immersif
