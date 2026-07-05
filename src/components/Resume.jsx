@@ -160,17 +160,27 @@ const Resume = () => {
               <div className="space-y-6">
                 <div className="group">
                   <h3 className="text-lg font-bold mb-1 flex items-center gap-3 group-hover:text-gray-600 transition-colors">
-                    Site E-commerce Lexigam
+                    Site E-commerce (Laravel + React + MySQL)
                   </h3>
-                  <p className="text-gray-600 mb-2 font-sans text-[11px]">Technologies : React, Laravel, API REST</p>
+                  <p className="text-gray-600 mb-2 font-sans text-[11px]">Technologies : Laravel, React, MySQL, API REST</p>
                   <p className="text-gray-700 leading-relaxed text-[13px] mb-3">
-                    Développement d'une plateforme e-commerce moderne avec gestion des produits, panier dynamique et système de commandes.
+                    Plateforme e-commerce avec gestion des produits et panier dynamique.
                   </p>
-                  <div className="flex flex-col gap-1">
-                    <a href="https://github.com/Joseph-Nostra/lexigam" className="text-[10px] font-black  text-gray-400 hover:text-gray-900 flex items-center gap-2 transition-colors">
-                      <ExternalLink size={10} /> https://github.com/Joseph-Nostra/lexigam
-                    </a>
-                  </div>
+                  <a href="https://mon-site-two-nu.vercel.app/" className="text-[10px] font-black text-gray-400 hover:text-gray-900 flex items-center gap-2 transition-colors">
+                    <ExternalLink size={10} /> https://mon-site-two-nu.vercel.app/
+                  </a>
+                </div>
+                <div className="group">
+                  <h3 className="text-lg font-bold mb-1 flex items-center gap-3 group-hover:text-gray-600 transition-colors">
+                    Site E-commerce (React)
+                  </h3>
+                  <p className="text-gray-600 mb-2 font-sans text-[11px]">Technologies : React, JavaScript, CSS</p>
+                  <p className="text-gray-700 leading-relaxed text-[13px] mb-3">
+                    Interface e-commerce moderne et réactive.
+                  </p>
+                  <a href="https://react-sooty-eta.vercel.app/" className="text-[10px] font-black text-gray-400 hover:text-gray-900 flex items-center gap-2 transition-colors">
+                    <ExternalLink size={10} /> https://react-sooty-eta.vercel.app/
+                  </a>
                 </div>
                 <div className="group">
                   <h3 className="text-lg font-bold mb-1 flex items-center gap-3 group-hover:text-gray-600 transition-colors">
@@ -178,13 +188,11 @@ const Resume = () => {
                   </h3>
                   <p className="text-gray-600 mb-2 font-sans text-[11px]">Technologies : React, Three.js, Framer Motion, Tailwind</p>
                   <p className="text-gray-700 leading-relaxed text-[13px] mb-3">
-                    Création d'un portfolio interactif avec animations 3D et design moderne pour présenter mes compétences et projets.
+                    Portfolio interactif avec animations 3D et design moderne.
                   </p>
-                  <div className="flex flex-col gap-1">
-                    <a href="https://github.com/Joseph-Nostra/MonSite" className="text-[10px] font-black  text-gray-400 hover:text-gray-900 flex items-center gap-2 transition-colors">
-                      <ExternalLink size={10} /> https://github.com/Joseph-Nostra/MonSite
-                    </a>
-                  </div>
+                  <a href="https://portfolio-beta-one-jyc1duefh6.vercel.app/" className="text-[10px] font-black text-gray-400 hover:text-gray-900 flex items-center gap-2 transition-colors">
+                    <ExternalLink size={10} /> https://portfolio-beta-one-jyc1duefh6.vercel.app/
+                  </a>
                 </div>
               </div>
             </section>
